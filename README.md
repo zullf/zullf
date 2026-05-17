@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Hi%20👋%20I'm%20Zulfikar&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hi%20👋%20I'm%20Zulfikar&fontSize=30)
 
 <h3 align="center">A Future frontend developer</h3>
 
