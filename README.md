@@ -1,20 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hi%20👋%20I'm%20Zulfikar&fontSize=30)
+# 👋HI, I'm Zulfikar
+### 💻 Information System Student | Web Developer Enthusiast 
 
-<h3 align="center">A Future frontend developer</h3>
+<img
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGowd25xNHB4aXdzeWFqcGpmMXhhc2ZlaW9qZXRwZmppbmxkdGdwayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a7Y6lravckuKA/giphy.gif" width="500"/> 
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zullf&label=Profile%20views&color=0e75b6&style=flat" alt="zullf" /> </p>
-
-- 🔭 I’m currently working on [Bite Yo](https://github.com/ltnzz/biteyo-fe)
-
-- 🌱 I’m currently learning **Mobile Developing**
-
-- 👨‍💻 All of my projects are available at [www.zulfikarhasan.my.id](www.zulfikarhasan.my.id)
-
-- 💬 Ask me about **react.js, tailwind.css**
-
-- 📫 How to reach me **zulfikarhasan118@gmail.com**
-
-- 📄 Know about my experiences [www.zulfikarhasan.my.id](www.zulfikarhasan.my.id)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
