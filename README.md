@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zulfikar</h1>
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Hi%20👋%20I'm%20Zulfikar&fontSize=90)
+
 <h3 align="center">A Future frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zullf&label=Profile%20views&color=0e75b6&style=flat" alt="zullf" /> </p>
