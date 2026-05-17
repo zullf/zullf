@@ -1,5 +1,5 @@
 # 👋HI, I'm Zulfikar
-### 💻 Information System Student | Web Developer Enthusiast 
+### 💻 Information System Student | Front-end Developer Enthusiast 
 
 <img
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGowd25xNHB4aXdzeWFqcGpmMXhhc2ZlaW9qZXRwZmppbmxkdGdwayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a7Y6lravckuKA/giphy.gif" width="500"/> 
