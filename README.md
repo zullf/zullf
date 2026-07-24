@@ -10,6 +10,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGowd25xNHB4aXdzeWFqcGpmMX
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zulfikar-hasan-342bb2396/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zulfikar-hasan-342bb2396/" height="30" width="40" /></a>
 <a href="https://instagram.com/fi.karrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fi.karrz" height="30" width="40" /></a>
+<a href="https://zulfikarhasan.my.id" target="blank"><img align="center" src="https://www.zulfikarhasan.my.id/assets/premovie-Dpq09we6.jpeg" alt="Zulfikar" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
